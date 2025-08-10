@@ -1,0 +1,32 @@
+{
+  "emergency_protocols": {
+    "chest_pain": {
+      "immediate_actions": [
+        "Call 911 immediately",
+        "Give aspirin if no contraindications",
+        "Position patient comfortably",
+        "Monitor vital signs"
+      ],
+      "red_flags": [
+        "Severe crushing chest pain",
+        "Radiation to arm/jaw",
+        "Shortness of breath",
+        "Nausea and sweating"
+      ]
+    },
+    "difficulty_breathing": {
+      "immediate_actions": [
+        "Call 911 immediately",
+        "Position patient upright",
+        "Remove restrictive clothing",
+        "Prepare for possible CPR"
+      ]
+    }
+  },
+  "triage_protocols": {
+    "emergency": "Immediate medical attention required",
+    "urgent": "Medical attention within 2-4 hours",
+    "moderate": "Medical attention within 24-48 hours",
+    "low": "Routine medical care or self-care"
+  }
+}
