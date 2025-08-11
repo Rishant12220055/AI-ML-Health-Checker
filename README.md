@@ -217,7 +217,39 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Rishant** - Initial work - [Rishant12220055](https://github.com/Rishant12220055)
 
-## 🙏 Acknowledgments
+## � External Documentation & Case Studies
+
+### **Production-Ready Technologies**
+
+#### **FastAPI (Production APIs)**
+- **Documentation**: [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
+- **Real-world Usage**: Used in medical, financial, and industrial systems worldwide
+- **Why FastAPI**: High-performance async framework perfect for AI model serving and real-time healthcare applications
+
+#### **React (Scalable Web Apps)**
+- **Documentation**: [https://react.dev/](https://react.dev/)
+- **Production Usage**: Powers Facebook, Instagram, and thousands of enterprise applications
+- **Healthcare Applications**: Widely adopted in EMR systems, telemedicine platforms, and medical dashboards
+
+#### **ClinicalBERT (Medical NLP)**
+- **Research Paper**: [ClinicalBERT: Medical Language Model](https://arxiv.org/abs/1904.05342)
+- **Hospital Deployment**: Currently deployed in hospital EMR systems for real-time clinical support
+- **Medical AI**: Specialized BERT model trained on clinical notes for accurate medical text understanding
+
+#### **LangGraph (Multi-agent Orchestration)**
+- **Documentation**: [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
+- **Enterprise Usage**: Used for workflow automation and decision-making in enterprise AI systems
+- **Healthcare AI**: Enables complex medical reasoning through coordinated AI agent workflows
+
+### **Industry Applications**
+
+This project demonstrates integration patterns used by:
+- **Healthcare Systems**: Electronic Health Records (EHR) and clinical decision support
+- **Telemedicine Platforms**: Remote patient consultation and triage systems
+- **Medical AI Companies**: Symptom checkers and diagnostic assistance tools
+- **Hospital Networks**: Emergency department triage and workflow optimization
+
+## �🙏 Acknowledgments
 
 - ClinicalBERT team for the medical language model
 - Hugging Face for transformer models
